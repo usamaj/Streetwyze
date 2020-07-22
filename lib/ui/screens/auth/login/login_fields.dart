@@ -4,6 +4,8 @@ import 'package:streetwyze/helpers/CustomWidgets/RowWidgets.dart';
 import 'package:streetwyze/helpers/CustomWidgets/TextWidgets/TextWidgetHelper.dart';
 import 'package:streetwyze/helpers/CustomWidgets/TextWidgets/FieldWidgetHelper.dart';
 
+// Worked on this
+
 enum loginType { email, phone }
 
 class LoginFields {

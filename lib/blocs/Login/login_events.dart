@@ -1,6 +1,8 @@
 import 'package:meta/meta.dart';
 import 'package:equatable/equatable.dart';
 
+// Worked on this
+
 abstract class LoginEvent extends Equatable {
   const LoginEvent();
 }
