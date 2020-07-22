@@ -1,0 +1,4 @@
+#Tue Jul 21 10:54:31 PKT 2020
+base.0=/Users/square63/Desktop/streetwyze/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
